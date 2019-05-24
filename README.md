@@ -1,3 +1,3 @@
 # API-PHP-MYSQL
 
-Aqui temos uma WEB API com retorno de JSON utilizando PHP E MYSQL
+In this repository i leave here how you  to do a Web API with return json, using PHP and MySQL
